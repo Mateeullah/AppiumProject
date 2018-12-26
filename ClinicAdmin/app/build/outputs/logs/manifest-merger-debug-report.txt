@@ -1,0 +1,455 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:2:1-82:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\c5b16cae1a9211f776c79d46cfb676b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b215639cc7ee8b39799f66b8936bd2d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\4588596a4b37f1cfd63b7670471197c7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\abfe8474c53229d60807627c6dd1fdeb\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-ml-vision:15.0.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-15.0.0.aar\5a4595a9ffd37b3d58775eae4e68a810\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:15.0.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-image-label-model-15.0.0.aar\614318212b9923b48375bace3951f6ff\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-ml-model-interpreter:15.0.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-ml-model-interpreter-15.0.0.aar\f36275d775e066f46f3f9b26538b3077\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\c66c8ae5d666aca80fbd1fc883f897f4\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-vision-image-label-15.0.0.aar\75d2191ab1bade0ae32755b7195b1c83\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\84d3bbc4940667bddcfc03089b283529\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-ml-common:15.0.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-ml-common-15.0.0.aar\bf1f3e09d66202fbe9e77587dea4ba28\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\ab28c8191435d1212abb0bad29b9dff0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\02886d29b24b77f3a59ae83bbe542a98\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\56000598a052622952ec2744ec5fc60a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-15.0.0.aar\4e64276352fd91b82fa31ddf6488ae06\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\2f3b1731be8e85af38f90f9ed1a1f4d5\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\6ce556510dbb8e95f8cd78a1f043e4f3\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\4630f23553776c3d225d3da4c69c109b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\fbd2806277d0f1709208efba7c2123cd\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4d5818065f65c9b005cebf57cfcb1cdb\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\db199ecfcfde45ca98438b20035f08f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\90ac558271b44e9291a3093dcd060842\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\0ea0ab90c7728de58f7f1e4d2f9f8940\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\fe73ed12e194f045153d209eaa3cd127\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\014e3111fd8507df53b6c084aa076cf0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3de6ea6c8670934f2d7d3566f41a5be2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\69658a71b42b844b1af1df6787b7fa1d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\40b858e112e95dbbdb8259caccba9e3e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\6f247df92c9a41899f5bac6af8875731\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\65ca7d33c081b05ad694961529ba0aa5\AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite:0.1.7] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.1.7.aar\e58d37ec9497053f5cb35b48a2304264\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f6e6a6078d79045ae0bfe06ac6d51acc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\63fbda55083f4eb770d3056d88e53eaf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e73a2a1758bc31e961bf979e0304e5e3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\847fd4608915a464b27ddfaeb2e6854e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:2:1-82:12
+INJECTED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:2:1-82:12
+	package
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:2:1-82:12
+		INJECTED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:2:1-82:12
+		INJECTED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\abfe8474c53229d60807627c6dd1fdeb\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\abfe8474c53229d60807627c6dd1fdeb\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\abfe8474c53229d60807627c6dd1fdeb\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\abfe8474c53229d60807627c6dd1fdeb\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:8:5-98
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:8:22-95
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:11:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:12:19-67
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:19:22-78
+application
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:21:5-80:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\4588596a4b37f1cfd63b7670471197c7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\4588596a4b37f1cfd63b7670471197c7\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\abfe8474c53229d60807627c6dd1fdeb\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\abfe8474c53229d60807627c6dd1fdeb\AndroidManifest.xml:30:5-20
+MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:15.0.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-image-label-model-15.0.0.aar\614318212b9923b48375bace3951f6ff\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:15.0.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-image-label-model-15.0.0.aar\614318212b9923b48375bace3951f6ff\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\c66c8ae5d666aca80fbd1fc883f897f4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\c66c8ae5d666aca80fbd1fc883f897f4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-vision-image-label-15.0.0.aar\75d2191ab1bade0ae32755b7195b1c83\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-vision-image-label-15.0.0.aar\75d2191ab1bade0ae32755b7195b1c83\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\84d3bbc4940667bddcfc03089b283529\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\84d3bbc4940667bddcfc03089b283529\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\ab28c8191435d1212abb0bad29b9dff0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\ab28c8191435d1212abb0bad29b9dff0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\56000598a052622952ec2744ec5fc60a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\56000598a052622952ec2744ec5fc60a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-15.0.0.aar\4e64276352fd91b82fa31ddf6488ae06\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-15.0.0.aar\4e64276352fd91b82fa31ddf6488ae06\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\2f3b1731be8e85af38f90f9ed1a1f4d5\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\2f3b1731be8e85af38f90f9ed1a1f4d5\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\6ce556510dbb8e95f8cd78a1f043e4f3\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\6ce556510dbb8e95f8cd78a1f043e4f3\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\4630f23553776c3d225d3da4c69c109b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\4630f23553776c3d225d3da4c69c109b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\fbd2806277d0f1709208efba7c2123cd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\fbd2806277d0f1709208efba7c2123cd\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4d5818065f65c9b005cebf57cfcb1cdb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4d5818065f65c9b005cebf57cfcb1cdb\AndroidManifest.xml:22:5-26:19
+MERGED from [org.tensorflow:tensorflow-lite:0.1.7] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.1.7.aar\e58d37ec9497053f5cb35b48a2304264\AndroidManifest.xml:4:5-5:19
+MERGED from [org.tensorflow:tensorflow-lite:0.1.7] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-0.1.7.aar\e58d37ec9497053f5cb35b48a2304264\AndroidManifest.xml:4:5-5:19
+	android:supportsRtl
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:27:9-40
+activity#umucom.android.clinic_admin.Activities.AccountActivity
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:28:19-61
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:32:27-74
+activity#umucom.android.clinic_admin.Activities.AdminMainActivity
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:35:9-66
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:35:19-63
+activity#umucom.android.clinic_admin.Activities.DoctorListActivity
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:36:9-67
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:36:19-64
+activity#umucom.android.clinic_admin.Activities.DoctorActivity
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:37:9-63
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:37:19-60
+activity#umucom.android.clinic_admin.Activities.SlotActivity
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:38:9-61
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:38:19-58
+activity#umucom.android.clinic_admin.Activities.SlotListActivity
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:39:9-65
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:39:19-62
+activity#umucom.android.clinic_admin.Activities.contactActivity
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:40:9-64
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:40:19-61
+activity#umucom.android.clinic_admin.Activities.Available_Slots
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:41:9-64
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:41:19-61
+activity#umucom.android.clinic_admin.Activities.MainActivity
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:42:9-61
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:42:19-58
+activity#umucom.android.clinic_admin.Activities.View_Appointment
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:43:9-65
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:43:19-62
+activity#umucom.android.clinic_admin.Activities.View_Reports
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:44:9-61
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:44:19-58
+activity#umucom.android.clinic_admin.Activities.Patient_Report_Detail_Activity
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:45:9-79
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:45:19-76
+activity#umucom.android.clinic_admin.Activities.Update_Profile
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:46:9-63
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:46:19-60
+activity#umucom.android.clinic_admin.FaceDetection.ChooserActivity
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:56:9-59:57
+	android:label
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:59:13-45
+	android:exported
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:57:13-58
+activity#umucom.android.clinic_admin.FaceDetection.LivePreviewActivity
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:60:9-62:48
+	android:exported
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:62:13-36
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:61:13-62
+activity#umucom.android.clinic_admin.FaceDetection.StillImageActivity
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:63:9-65:48
+	android:exported
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:65:13-36
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:64:13-61
+meta-data#com.google.firebase.ml.vision.DEPENDENCIES
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:67:9-69:36
+	android:value
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:69:13-33
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:68:13-70
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:70:9-72:55
+	android:value
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:72:13-52
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:71:13-58
+activity#umucom.android.clinic_admin.MapsActivity
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:74:9-76:59
+	android:label
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:76:13-56
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:75:13-41
+activity#umucom.android.clinic_admin.Activities.ReportActivity
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:77:9-63
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:77:19-60
+activity#umucom.android.clinic_admin.Activities.DoctorMainActivity
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:78:9-67
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:78:19-64
+activity#umucom.android.clinic_admin.AdminBookingActivity
+ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:79:9-67
+	android:name
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:79:19-55
+uses-sdk
+INJECTED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\c5b16cae1a9211f776c79d46cfb676b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\c5b16cae1a9211f776c79d46cfb676b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b215639cc7ee8b39799f66b8936bd2d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b215639cc7ee8b39799f66b8936bd2d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\4588596a4b37f1cfd63b7670471197c7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\4588596a4b37f1cfd63b7670471197c7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\abfe8474c53229d60807627c6dd1fdeb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\abfe8474c53229d60807627c6dd1fdeb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-ml-vision:15.0.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-15.0.0.aar\5a4595a9ffd37b3d58775eae4e68a810\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-vision:15.0.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-15.0.0.aar\5a4595a9ffd37b3d58775eae4e68a810\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:15.0.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-image-label-model-15.0.0.aar\614318212b9923b48375bace3951f6ff\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-vision-image-label-model:15.0.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-image-label-model-15.0.0.aar\614318212b9923b48375bace3951f6ff\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-model-interpreter:15.0.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-ml-model-interpreter-15.0.0.aar\f36275d775e066f46f3f9b26538b3077\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-model-interpreter:15.0.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-ml-model-interpreter-15.0.0.aar\f36275d775e066f46f3f9b26538b3077\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\c66c8ae5d666aca80fbd1fc883f897f4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\c66c8ae5d666aca80fbd1fc883f897f4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-vision-image-label-15.0.0.aar\75d2191ab1bade0ae32755b7195b1c83\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-vision-image-label-15.0.0.aar\75d2191ab1bade0ae32755b7195b1c83\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\84d3bbc4940667bddcfc03089b283529\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\84d3bbc4940667bddcfc03089b283529\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-common:15.0.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-ml-common-15.0.0.aar\bf1f3e09d66202fbe9e77587dea4ba28\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-common:15.0.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-ml-common-15.0.0.aar\bf1f3e09d66202fbe9e77587dea4ba28\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\ab28c8191435d1212abb0bad29b9dff0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\ab28c8191435d1212abb0bad29b9dff0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\02886d29b24b77f3a59ae83bbe542a98\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\02886d29b24b77f3a59ae83bbe542a98\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\56000598a052622952ec2744ec5fc60a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\56000598a052622952ec2744ec5fc60a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-15.0.0.aar\4e64276352fd91b82fa31ddf6488ae06\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-15.0.0.aar\4e64276352fd91b82fa31ddf6488ae06\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\2f3b1731be8e85af38f90f9ed1a1f4d5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\2f3b1731be8e85af38f90f9ed1a1f4d5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\6ce556510dbb8e95f8cd78a1f043e4f3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\6ce556510dbb8e95f8cd78a1f043e4f3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\4630f23553776c3d225d3da4c69c109b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\4630f23553776c3d225d3da4c69c109b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\fbd2806277d0f1709208efba7c2123cd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\fbd2806277d0f1709208efba7c2123cd\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4d5818065f65c9b005cebf57cfcb1cdb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4d5818065f65c9b005cebf57cfcb1cdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\db199ecfcfde45ca98438b20035f08f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\db199ecfcfde45ca98438b20035f08f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\90ac558271b44e9291a3093dcd060842\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\90ac558271b44e9291a3093dcd060842\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\0ea0ab90c7728de58f7f1e4d2f9f8940\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\0ea0ab90c7728de58f7f1e4d2f9f8940\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\fe73ed12e194f045153d209eaa3cd127\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\fe73ed12e194f045153d209eaa3cd127\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\014e3111fd8507df53b6c084aa076cf0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\014e3111fd8507df53b6c084aa076cf0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3de6ea6c8670934f2d7d3566f41a5be2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3de6ea6c8670934f2d7d3566f41a5be2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\69658a71b42b844b1af1df6787b7fa1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\69658a71b42b844b1af1df6787b7fa1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\40b858e112e95dbbdb8259caccba9e3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\40b858e112e95dbbdb8259caccba9e3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\6f247df92c9a41899f5bac6af8875731\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\6f247df92c9a41899f5bac6af8875731\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\65ca7d33c081b05ad694961529ba0aa5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\65ca7d33c081b05ad694961529ba0aa5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f6e6a6078d79045ae0bfe06ac6d51acc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\f6e6a6078d79045ae0bfe06ac6d51acc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\63fbda55083f4eb770d3056d88e53eaf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\63fbda55083f4eb770d3056d88e53eaf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e73a2a1758bc31e961bf979e0304e5e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e73a2a1758bc31e961bf979e0304e5e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\847fd4608915a464b27ddfaeb2e6854e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\847fd4608915a464b27ddfaeb2e6854e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\abfe8474c53229d60807627c6dd1fdeb\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\abfe8474c53229d60807627c6dd1fdeb\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\abfe8474c53229d60807627c6dd1fdeb\AndroidManifest.xml:28:9-32
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:29:9-63
+permission#umucom.android.clinic_admin.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:32:22-76
+uses-permission#umucom.android.clinic_admin.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:32:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:35:18-89
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:42:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:45:13-49:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:umucom.android.clinic_admin
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:46:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:48:27-58
+category#umucom.android.clinic_admin
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:57:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:59:13-61:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:59:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:60:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-iid-15.1.0.aar\daf47cccc870552d4cbd151695524efc\AndroidManifest.xml:60:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\2f3b1731be8e85af38f90f9ed1a1f4d5\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\2f3b1731be8e85af38f90f9ed1a1f4d5\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\2f3b1731be8e85af38f90f9ed1a1f4d5\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\2f3b1731be8e85af38f90f9ed1a1f4d5\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\6ce556510dbb8e95f8cd78a1f043e4f3\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\6ce556510dbb8e95f8cd78a1f043e4f3\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\6ce556510dbb8e95f8cd78a1f043e4f3\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\6ce556510dbb8e95f8cd78a1f043e4f3\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\firebase-common-15.0.1.aar\6ce556510dbb8e95f8cd78a1f043e4f3\AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4d5818065f65c9b005cebf57cfcb1cdb\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4d5818065f65c9b005cebf57cfcb1cdb\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\DJ\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\4d5818065f65c9b005cebf57cfcb1cdb\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:2:1-82:12 reason: org.tensorflow.lite has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\DJ\AndroidStudioProjects\ClinicAdmin\app\src\main\AndroidManifest.xml:2:1-82:12 reason: org.tensorflow.lite requested WRITE_EXTERNAL_STORAGE
