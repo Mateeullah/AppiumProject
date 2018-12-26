@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Activities.DoctorActivity"
+    >
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+            <EditText
+                android:id="@+id/doc_name_id"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="69dp"
+                android:ems="10"
+                android:hint="Name"
+                android:inputType="textPersonName"
+                android:textAlignment="center" />
+
+            <EditText
+                android:id="@+id/doc_contact_id"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:ems="10"
+                android:hint="Contact No"
+                android:inputType="number"
+                android:textAlignment="center" />
+
+            <EditText
+                android:id="@+id/doc_timing_id"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:ems="10"
+                android:hint="Time"
+                android:inputType="textPersonName"
+                android:textAlignment="center" />
+
+            <EditText
+                android:id="@+id/doc_days_id"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                android:ems="10"
+                android:hint="Days"
+                android:inputType="textPersonName"
+                android:textAlignment="center" />
+            <Button
+                android:id="@+id/doc_qualification"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/style_button"
+                android:text="@string/doctor_qualification"
+                android:textStyle="normal" />
+
+            <FrameLayout
+                android:id="@+id/qualification_fragment_container"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+            </FrameLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="horizontal">
+                <Button
+                    android:id="@+id/doc_save_id"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="34dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/style_button"
+                    android:text="save"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_weight="1"
+                    android:textStyle="normal" />
+                <Button
+                    android:id="@+id/doc_update_id"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginBottom="34dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/style_button"
+                    android:text="update"
+                    android:layout_weight="1"
+                    android:textStyle="normal" />
+
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

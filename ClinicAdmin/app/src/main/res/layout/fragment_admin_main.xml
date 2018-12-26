@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+    <Button
+        android:id="@+id/manage_slot"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="150dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:textStyle="normal"
+        android:background="@drawable/style_button"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:text="@string/manage_slot"/>
+
+    <Button
+        android:layout_centerHorizontal="true"
+        android:id="@+id/manage_doctor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/manage_doctor"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_below="@id/manage_slot"
+        android:textStyle="normal"
+        android:background="@drawable/style_button"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"/>
+
+    <Button
+        android:id="@+id/contact_details"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_below="@id/manage_doctor"
+        android:text="@string/contact_info"
+        android:textStyle="normal"
+        android:background="@drawable/style_button"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"/>
+
+    <Button
+        android:id="@+id/manage_report"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_below="@id/contact_details"
+        android:text="@string/manage_report"
+        android:textStyle="normal"
+        android:background="@drawable/style_button"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/manage_booking"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/manage_report"
+        android:text="Manage Booking"
+        android:textStyle="normal"
+        android:background="@drawable/style_button"
+        android:layout_gravity="center"/>
+</RelativeLayout>

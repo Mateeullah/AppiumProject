@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <Button
+        android:id="@+id/slots_btn"
+        android:layout_width="267dp"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="118dp"
+        android:background="@drawable/style_button"
+        android:text="Available slots"
+        android:textStyle="normal"
+        tools:layout_editor_absoluteX="117dp"
+        tools:layout_editor_absoluteY="72dp" />
+
+    <Button
+        android:id="@+id/appoint_btn"
+        android:layout_width="267dp"
+        android:layout_height="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="192dp"
+        android:background="@drawable/style_button"
+        android:text="View appointments"
+        android:textStyle="normal"
+        tools:layout_editor_absoluteX="117dp"
+        tools:layout_editor_absoluteY="167dp" />
+
+    <Button
+        android:id="@+id/report_btn"
+        android:layout_width="267dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginBottom="184dp"
+        android:background="@drawable/style_button"
+        android:text="View reports"
+        android:textStyle="normal"
+        tools:layout_editor_absoluteX="117dp"
+        tools:layout_editor_absoluteY="274dp" />
+
+    <Button
+        android:id="@+id/profile_btn"
+        android:layout_width="267dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginBottom="101dp"
+        android:background="@drawable/style_button"
+        android:text="Update profile"
+        android:textStyle="normal"
+        tools:layout_editor_absoluteX="117dp"
+        tools:layout_editor_absoluteY="368dp" />
+
+     />
+</RelativeLayout>

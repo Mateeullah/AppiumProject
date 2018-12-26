@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activities.SlotActivity"
+    android:background="@drawable/background">
+
+    <Spinner
+        android:id="@+id/spinner_doctor"
+        android:layout_width="236dp"
+        android:layout_height="60dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="148dp"
+        android:layout_marginTop="18dp"
+        android:autofillHints="Select"/>
+
+    <TextView
+        android:id="@+id/select_id"
+        android:layout_width="wrap_content"
+        android:layout_height="38dp"
+        android:layout_alignTop="@+id/spinner_doctor"
+        android:layout_marginBottom="18dp"
+        android:layout_marginEnd="18dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"
+        android:layout_marginStart="18dp"
+        android:layout_marginTop="7dp"
+        android:text="Select Doctor"
+        android:textSize="20dp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/slot_time_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="107dp"
+        android:background="@drawable/style_button"
+        android:hint="Click to Select Time" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="192dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="179dp"
+        android:background="@drawable/style_textbox">
+
+        <EditText
+            android:id="@+id/add_slot_description"
+            android:layout_width="372dp"
+            android:layout_height="match_parent"
+            android:ems="10"
+            android:hint="Slot details"
+            android:inputType="textMultiLine"
+            android:textAlignment="center" />
+
+    </FrameLayout>
+
+
+
+    <Button
+        android:id="@+id/slot_save_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="62dp"
+        android:textStyle="normal"
+        android:background="@drawable/style_button"
+        android:layout_gravity="center"
+        android:text="Add Slot"/>
+
+</RelativeLayout>

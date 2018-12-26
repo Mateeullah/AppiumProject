@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".Activities.AccountActivity">
+
+    <!--   <ImageView
+           android:id="@+id/background"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:layout_alignParentLeft="true"
+           android:layout_alignParentTop="true"
+           android:scaleType="centerCrop"
+           android:src="@drawable/background"/>-->
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:src="@drawable/ic_logo"
+        android:scaleType="fitCenter"
+        android:id="@+id/logo"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@id/logo">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:orientation="vertical"
+            android:background="@drawable/white_rectangle">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sign up"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                android:layout_marginBottom="6dp"
+                android:layout_marginLeft="10dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                />
+            <AutoCompleteTextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:hint="Name"
+                android:background="@drawable/rounded_white"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:drawableLeft="@drawable/email_person"
+                android:textSize="14sp"
+                android:drawablePadding="5dp"
+                android:id="@+id/user_name"
+                android:layout_marginBottom="10dp"/>
+            <AutoCompleteTextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:hint="Email"
+                android:background="@drawable/rounded_white"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:inputType="textEmailAddress"
+                android:drawableLeft="@drawable/email_person"
+                android:textSize="14sp"
+                android:drawablePadding="5dp"
+                android:id="@+id/user_email"
+                android:layout_marginBottom="10dp"/>
+
+            <AutoCompleteTextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:hint="Password"
+                android:background="@drawable/rounded_white"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:drawableLeft="@drawable/ic_user_pass"
+                android:textSize="14sp"
+                android:inputType="textPassword"
+                android:drawablePadding="5dp"
+                android:id="@+id/user_password"
+                android:layout_marginBottom="10dp"/>
+            <AutoCompleteTextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:hint="Confirm Password"
+                android:background="@drawable/rounded_white"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:drawableLeft="@drawable/ic_user_pass"
+                android:textSize="14sp"
+                android:inputType="textPassword"
+                android:drawablePadding="5dp"
+                android:id="@+id/user_cpassword"
+                android:layout_marginBottom="10dp"/>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/sign_up_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="40dp"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/style_button"
+                    android:text="Sign Up"
+                    android:textColor="@color/white"
+                    android:textStyle="normal"/>
+
+                <Button
+                    android:id="@+id/sign_up_button_patient"
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="40dp"
+                    android:layout_gravity="center"
+                    android:padding="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/style_button"
+                    android:text="Sign Up Patient"
+                    android:textColor="@color/white"
+                    android:textStyle="normal"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

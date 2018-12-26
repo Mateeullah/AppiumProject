@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".View_Appointment">
+
+    <Spinner
+        android:id="@+id/appoint_spinner"
+        android:layout_width="165dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="21dp"
+        android:layout_marginTop="32dp"
+        android:visibility="visible"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="30dp" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/appoint_view"
+        android:layout_width="378dp"
+        android:layout_height="302dp"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        tools:layout_editor_absoluteX="-2dp"
+        tools:layout_editor_absoluteY="105dp" />
+
+    <Button
+        android:id="@+id/appoint_del_btn"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="33dp"
+        android:text="Delete"
+        tools:layout_editor_absoluteX="107dp"
+        tools:layout_editor_absoluteY="445dp" />
+</RelativeLayout>

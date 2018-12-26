@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <EditText
+        android:id="@+id/qualification_degree"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:hint="Qualification Degree"
+        android:inputType="textPersonName"
+        android:textAlignment="center" />
+    <EditText
+        android:id="@+id/qualification_institute"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:hint="Qualification Institute"
+        android:inputType="textPersonName"
+        android:textAlignment="center" />
+    <EditText
+        android:id="@+id/qualification_year"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:hint="Qualification year"
+        android:inputType="number"
+        android:textAlignment="center" />
+    <EditText
+        android:id="@+id/qualification_detail"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:hint="Qualification details"
+        android:inputType="textPersonName"
+        android:textAlignment="center" />
+
+</LinearLayout>
