@@ -166,10 +166,7 @@ public class TestSuite {
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
     }
 
-    @After
-    public void End() {
-        driver.quit();
-    }
+    
 
 
 }
