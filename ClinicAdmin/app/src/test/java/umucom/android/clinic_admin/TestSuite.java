@@ -65,8 +65,10 @@ public class TestSuite {
     public void loginFailureScenarios() {
         // Click on DELETE/CLR button to clear result text box before running test.
         driver.findElements(By.xpath("//android.widget.EditText")).get(0).sendKeys("robot@gmail.com");
-        driver.findElements(By.xpath("//android.widget.EditText")).get(1).sendKeys("robots");
-        driver.findElements(By.xpath("//android.widget.Button")).get(0).click();
+        MobileElement first = driver.findElements(By.xpath("//android.widget.EditText")).get(1);
+	first.sendKeys("robots")
+        MobileElement second = driver.findElements(By.xpath("//android.widget.Button")).get(0);
+	second.click();
         try {
             Thread.sleep(1000);
         }
